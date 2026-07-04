@@ -177,5 +177,25 @@ npm run dev
 GitHub: https://github.com/0027-Priyanshu
 
 ---
+📸 Screenshots
+🔐 Login Page
+
+<img width="944" height="682" alt="Login" src="https://github.com/user-attachments/assets/2f025b69-6727-4129-895f-a5deae91afc8" />
+
+📝 Enroll Page
+
+<img width="906" height="601" alt="enroll" src="https://github.com/user-attachments/assets/70c514c0-7269-405d-8125-50cb764f8fa3" />
+
+📊 Dashboard
+
+<img width="884" height="560" alt="dashboard" src="https://github.com/user-attachments/assets/6f8efae9-fe9a-45f8-b122-7b57356a6d7e" />
+
+🔎 Search Courses
+
+<img width="906" height="641" alt="search courses" src="https://github.com/user-attachments/assets/d01f2aa5-8cf1-48d5-b9cc-12aec19f3849" />
+
+🐍 Search Python Course
+
+<img width="896" height="659" alt="search python" src="https://github.com/user-attachments/assets/ae09e4aa-1ff9-4d3a-b30e-7c232858fab5" />
 
 ## ⭐ If you found this project useful, consider giving it a star!
