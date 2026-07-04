@@ -102,7 +102,7 @@ cd backend
 npm install
 ```
 
-Create a `.env` file:
+Create a `.env.example` file:
 
 ```env
 PORT=8000
